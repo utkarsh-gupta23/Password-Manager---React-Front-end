@@ -1,0 +1,19 @@
+.homeContainer{
+    justify-content: center;
+    padding: 30px;
+    margin: 30px;
+}
+span:hover{
+    cursor: pointer;
+}   
+span{
+    color:blue;
+    text-decoration: underline;
+}
+
+.bla{
+    justify-content: center;
+    padding: 30px;
+    margin: 30px;
+
+}
