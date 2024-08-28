@@ -139,7 +139,7 @@ const EditProfile = () => {
           Update Details
         </Button>
       </form>
-      {/* {error && (
+      {error && (
         <Typography
           variant="body2"
           color="error"
@@ -147,7 +147,7 @@ const EditProfile = () => {
         >
           {error}
         </Typography>
-      )} */}
+      )}
     </Box>
   );
 };

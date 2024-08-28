@@ -29,7 +29,6 @@ export const useUpdateUser = () => {
         showToast({ type: "SUCCESS", payload: "User updated sucessfully" });
       }
     } catch (error) {
-      //   console.log(error.response.data);
       setError(error.response.data.message);
     }
   };
